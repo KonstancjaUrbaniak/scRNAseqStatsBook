@@ -1,5 +1,5 @@
 # scRNAseqStatsBook
-## Description scRNAseqReportGen is a Python package designed to streamline the analysis and reporting of single-cell RNA sequencing (scRNA-seq) data. This package provides a user-friendly and automated way to generate comprehensive LaTeX reports from scRNA-seq matrix data, including detailed distributions and basic statistics for each gene.
+## scRNAseqReportGen is a Python package designed to streamline the analysis and reporting of single-cell RNA sequencing (scRNA-seq) data. This package provides a user-friendly and automated way to generate comprehensive LaTeX reports from scRNA-seq matrix data, including detailed distributions and basic statistics for each gene.
 ## Key Features
 - **Automated Report Generation**: Easily create LaTeX-formatted reports with minimal manual intervention.
 - **Statistical Analysis**: Compute and display basic statistics such as mean, median, zero count, and non-zero count for each gene.
