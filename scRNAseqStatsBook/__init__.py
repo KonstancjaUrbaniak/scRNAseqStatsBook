@@ -1,0 +1,1 @@
+from .report_generator import create_latex_report
